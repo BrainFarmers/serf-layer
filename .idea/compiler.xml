@@ -6,10 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="serf-service" />
-        <module name="serf-shell" />
+        <module name="serf-layer" />
         <module name="serflayer" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="serf-service" target="1.5" />
+      <module name="serf-shell" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

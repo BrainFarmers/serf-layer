@@ -6,7 +6,15 @@
 
     <groupId>com.serf-layer.serf.service</groupId>
     <artifactId>serf-service</artifactId>
-    <version>0.0.0</version>
+    <version>0.2.0</version>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-webflux</artifactId>
+            <version>5.0.8.RELEASE</version>
+        </dependency>
+    </dependencies>
 
 
 </project>
