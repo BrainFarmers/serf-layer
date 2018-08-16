@@ -5,9 +5,9 @@ import org.springframework.shell.standard.ShellComponent;
 @ShellComponent
 public class SerfShell {
 
-    @ShellMethod("Add two integers together.")
-    public int add(int a, int b) {
-        return a + b;
+    @ShellMethod(value = "Polite ping method.", key = "Hello")
+    public String hello() {
+        return "Hello!";
     }
 
 }
