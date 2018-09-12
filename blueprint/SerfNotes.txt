@@ -1,0 +1,43 @@
+For the first time in Human History; flexibility is not required to survive anymore.
+We can work in the same cubicle, live in the same flat, eat the same things, each and every day. We have killed the need to adapt in order to survive, causing a new capacity to Human; we can now obsess over long-term complex problems.
+
+
+
+Target clients:
+- AGI fanatics
+- ML hobbyists
+- Sysadmin
+- Website amateur and semi-pro
+- orchestration specialists
+- owl fanatics
+- reactive users
+- BI users
+- hobbyists and pro
+
+key words:
+- liquid
+- intelligent
+- connected
+
+Flows have registers and can use, as database;
+- the whole web
+- a local file
+- a dbms
+- the keyboard
+
+
+___________________________
+
+Data reduction approach:
+From flow with highly custom format
+--- digestion process ---
+To single token having no more information than the place its occupied
+
+Information gets progressively transfered from the XML message conveying it to the structure of the place it occupes; this is an information digestion process
+
+How to handle multiple digestions possible leading to multiple possible clusters?
+
+Language process seems to be built on those steps:
+- Non-verbal communication
+- Verbal Contextual
+- Verbal ideas/meaningful
